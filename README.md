@@ -5,3 +5,5 @@ Setuped spring project and configured docker-compose file to build keycloak imag
 Configured Keycloak realm, configured spring client, added corresponding roles to client and realm, and created test user. Added corresponding screenshots to snapshots directory
 # Lab 3
 Added authentication through keycloak resource server to the spring app. Added corresponding screenshots to snapshots directory.
+# Lab 4
+Added role based authorization to the application. Corresponding screenshots are in snapshots direcetory.
