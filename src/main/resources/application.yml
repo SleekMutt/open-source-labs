@@ -1,4 +1,8 @@
 spring:
+  jwt:
+    auth:
+      converter:
+        resource-id: spring-api-app
   application:
     name: open-source
   security:
